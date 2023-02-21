@@ -15,3 +15,7 @@ It will contain:
 **Branch**: not important (for now)
 
 **Commit**: named version of your project.
+
+## Something new
+
+New section
