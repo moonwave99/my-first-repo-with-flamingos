@@ -10,9 +10,8 @@ It will contain:
 
 ## Git keywords
 
-Repository: folder with history information
+**Repository**: folder with history information
 
-Branch: not important for now
+**Branch**: not important (for now)
 
-Commit
-
+**Commit**: named version of your project.
