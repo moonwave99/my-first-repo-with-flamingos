@@ -23,3 +23,7 @@ New section
 ## Another section
 
 blabla
+
+## Final section
+
+blablabla
