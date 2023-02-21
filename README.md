@@ -19,3 +19,7 @@ It will contain:
 ## Something new
 
 New section
+
+## Another section
+
+blabla
