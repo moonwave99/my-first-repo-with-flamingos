@@ -1,6 +1,6 @@
 # Second note
 
-Blablah
+Something more precise
 
 some content
 
